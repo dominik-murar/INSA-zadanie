@@ -1,7 +1,7 @@
 import logging
 
-from houseprices_model import config
-from houseprices_model import logging_config
+from titanic_model import config
+from titanic_model import logging_config
 
 
 VERSION_PATH = config.PACKAGE_ROOT / 'VERSION'
