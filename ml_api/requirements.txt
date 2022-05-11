@@ -1,0 +1,4 @@
+# api
+flask==1.0.2
+
+-e ../titanic_model
